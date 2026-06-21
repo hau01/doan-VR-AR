@@ -1,0 +1,25 @@
+
+{
+"name": "DOAN_VR_AR",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "pannellum-react": "^2.4.0",
+    "three": "^r149",
+    "babylon.js": "^6.0.0",
+    "axios": "^1.6.0",
+    "react-router-dom": "^6.0.0",
+    "react-bootstrap": "^2.8.0"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
